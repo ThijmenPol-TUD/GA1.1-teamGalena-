@@ -4,4 +4,5 @@ the add function is added this adds two numbers together
 
 the multiply function is added and multiplies a and b
 
+Added square function to multiply.ipynb
 Added distance_to_zero function in the subtract file
