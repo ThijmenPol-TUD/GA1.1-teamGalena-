@@ -1,1 +1,1 @@
-in this file the contents of this project will be discribed
+in this file the contents of this project will be described
